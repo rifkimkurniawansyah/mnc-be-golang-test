@@ -20,7 +20,7 @@ Make sure you have [Go](https://golang.org/dl/) installed on your system.
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/rifkimkurniawansyah/mnc-be-golang-test
+    git clone git@github.com:rifkimkurniawansyah/mnc-be-golang-test.git
     ```
 
 2. Navigate to the project directory:
